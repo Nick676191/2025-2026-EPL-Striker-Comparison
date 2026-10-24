@@ -6,3 +6,6 @@
 
 # vs code directory
 /.vscode
+
+# csv
+*.csv
